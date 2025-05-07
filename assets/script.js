@@ -3,49 +3,49 @@ document.getElementById("load-more").addEventListener("click", function () {
 
     let moreProjects = [
         {
-            image: "/assets/images/adscoms.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/adscoms.webp",
             title: "ADS Come",
             desc: "Outdoor Advertising Agency",
             link: "#",
             info: "This is My College Project. Developed a dynamic web application using ASP.NET with HTML, CSS, and JavaScript, powered by MySQL Server for backend data management"
         },
         {
-            image: "/assets/images/Ever-Take.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/Ever-Take.webp",
             title: "Ever Take",
             desc: "Online Workers Booking System",
             link: "#",
             info: "Developed a custom WordPress website using PHP, HTML, CSS, and JavaScript, with phpMyAdmin for database management."
         },
         {
-            image: "/assets/images/Moneys-Magazine-Middle-East-Leadership.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/Moneys-Magazine-Middle-East-Leadership.webp",
             title: "moneysmagazine",
             desc: "Finance Magazine",
             link: "https://moneysmagazine.me/",
             info: "Added and managed posts while enhancing the design of Money's Magazine using WordPress, Elementor, HTML, and CSS for a visually appealing layout."
         },
         {
-            image: "/assets/images/ny-elizabeth.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/ny-elizabeth.webp",
             title: "nyelizabeth",
             desc: "Luxury Brand",
             link: "https://beta.nyelizabeth.com/",
             info: "Implemented custom filters, product data scraping, and custom plugins, while also removing viruses to enhance site functionality and security."
         },
         {
-            image: "/assets/images/rothsibank.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/rothsibank.webp",
             title: "rothsibank",
             desc: "Banking Solution",
             link: "https://rothsibank.com/market-insights/green-energy-investment-opportunities-in-malaysia/",
             info: "Designed a custom single post page with a dynamic Slick Slider, developed a custom plugin, and dynamically fetched post data for an enhanced user experience."
         },
         {
-            image: "/assets/images/secondworld.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/secondworld.webp",
             title: "secondworld",
             desc: "Gaming Platform",
             link: "https://secondworld.ch/",
             info: "Designed multiple site pages and developed a popup that dynamically fetches location-based links for a seamless user experience."
         },
         {
-            image: "/assets/images/Vox-Residence.webp",
+            image: "https://chavdabhavy.github.io/BhavyChavda/assets/images/Vox-Residence.webp",
             title: "kerjaya",
             desc: "Real Estate",
             link: "https://kerjaya.best121.com/our-businesses/vox-residence-sentul-2/",
